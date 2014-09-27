@@ -1,0 +1,5 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroALetra\AppNumeroALetra\bin\Debug\AppNumeroALetra.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroALetra\AppNumeroALetra\bin\Debug\AppNumeroALetra.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroALetra\AppNumeroALetra\bin\Debug\AppNumeroALetra.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroALetra\AppNumeroALetra\obj\Debug\AppNumeroALetra.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroALetra\AppNumeroALetra\obj\Debug\AppNumeroALetra.pdb

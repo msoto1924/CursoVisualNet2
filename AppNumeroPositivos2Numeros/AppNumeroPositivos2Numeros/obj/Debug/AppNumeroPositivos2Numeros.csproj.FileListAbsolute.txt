@@ -1,0 +1,6 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroPositivos2Numeros\AppNumeroPositivos2Numeros\bin\Debug\AppNumeroPositivos2Numeros.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroPositivos2Numeros\AppNumeroPositivos2Numeros\bin\Debug\AppNumeroPositivos2Numeros.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroPositivos2Numeros\AppNumeroPositivos2Numeros\bin\Debug\AppNumeroPositivos2Numeros.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroPositivos2Numeros\AppNumeroPositivos2Numeros\obj\Debug\AppNumeroPositivos2Numeros.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroPositivos2Numeros\AppNumeroPositivos2Numeros\obj\Debug\AppNumeroPositivos2Numeros.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumeroPositivos2Numeros\AppNumeroPositivos2Numeros\obj\Debug\AppNumeroPositivos2Numeros.pdb

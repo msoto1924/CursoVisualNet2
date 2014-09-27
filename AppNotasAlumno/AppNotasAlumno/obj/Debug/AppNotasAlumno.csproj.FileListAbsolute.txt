@@ -1,0 +1,6 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNotasAlumno\AppNotasAlumno\bin\Debug\AppNotasAlumno.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNotasAlumno\AppNotasAlumno\bin\Debug\AppNotasAlumno.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNotasAlumno\AppNotasAlumno\bin\Debug\AppNotasAlumno.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNotasAlumno\AppNotasAlumno\obj\Debug\AppNotasAlumno.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNotasAlumno\AppNotasAlumno\obj\Debug\AppNotasAlumno.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNotasAlumno\AppNotasAlumno\obj\Debug\AppNotasAlumno.pdb
